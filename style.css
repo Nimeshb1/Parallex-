@@ -121,6 +121,17 @@ body {
   background-attachment: fixed;
 }
 
+.img2 > h1 {
+  background-color: rgba(176, 194, 188, 0.664);
+  width: 50vw;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.527);
+}
+
 .img3 {
   min-height: 100vh;
 
@@ -133,6 +144,17 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+.img3 > h1 {
+  background-color: rgba(176, 194, 188, 0.664);
+  width: 50vw;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.527);
+}
 .img4 {
   min-height: 100vh;
 
@@ -144,6 +166,17 @@ body {
   align-items: center;
   background-size: cover;
   background-attachment: fixed;
+}
+
+.img4 > h1 {
+  background-color: rgba(176, 194, 188, 0.664);
+  width: 50vw;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.527);
 }
 
 .down-arrow {
